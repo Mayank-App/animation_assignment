@@ -1,4 +1,5 @@
 
+import 'package:annimation_assignment/src/presentation/ui/assignment_selection.dart';
 import 'package:annimation_assignment/src/presentation/ui/login_screen/login_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
            backgroundColor: Colors.blue, )
         )
       ),
-      home:const LoginPage(),
+      home: AssignmentSelection(),
     );
   }
 }

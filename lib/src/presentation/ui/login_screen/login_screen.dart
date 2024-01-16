@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../config/colors.dart';
+import '../../../utils/constants/colors.dart';
 import '../../../utils/constants/appconstants.dart';
 import '../../../utils/utils.dart';
 import '../home_screen.dart';

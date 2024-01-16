@@ -1,5 +1,4 @@
 class AppConstants {
-//Login Page
   static const String loginPageTitle = 'Login Page';
   static const String emailLabel = 'Email';
   static const String passwordLabel = 'Password';
@@ -12,5 +11,4 @@ class AppConstants {
   static const String hometxt = 'Welcome to the Home Screen!';
   static const String riveanimation = 'assets/images/368-694-checkmark-icon.riv';
   static const String congrts =  'Congratulations';
-
 }
